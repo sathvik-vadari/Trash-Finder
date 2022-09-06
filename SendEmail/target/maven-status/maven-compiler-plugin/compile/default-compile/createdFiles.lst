@@ -1,0 +1,3 @@
+com\sendEmail\controller\MailController.class
+com\sendEmail\SendEmailApplication.class
+com\sendEmail\service\EmailService.class
